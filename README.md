@@ -4,13 +4,13 @@ This repository contains results of acoustic model training. See the individual 
 
 ## 2022_02_21
 
-2022_02_21/results.html
+[Training results](2022_02_21/results.html)
 
 ## 2022_06_24
 
-2022_06_24/report_3_12.html
+[Training results model 3_12](2022_06_24/report_3_12.html)
 
-2022_06_24/report_4_25.html
+[training results model 4_25](2022_06_24/report_4_25.html)
 
 
 
