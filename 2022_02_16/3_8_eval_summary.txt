@@ -1,0 +1,13 @@
+   Evaluation result:
+   - Time stamp     : 2024-01-17-170927 @ $HOSTNAME
+   - Model ID       : -1_-1
+   - Parameters     : 289.5 k
+   - Valid Gaussians: 888/888
+   - Sample time    : 10050 s
+   - Performance    : 0 % real time
+   Frame labels     : 1434/1434 samples (confidence level: 95 %)
+   - Correctness    : 67.1 % +-0.8 % 
+   Label sequences  : 1434/1434 samples (confidence level: 95 %)
+   - Correctness    : 71.4 % +-0.5 % 
+   - Accuracy       : 61.7 % +-0.6 % 
+   - Lattice density: 1.018  +-0.004 

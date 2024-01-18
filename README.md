@@ -4,6 +4,12 @@ This repository contains results of acoustic model training. See the individual 
 
 [Browse HTML reports here](https://zalozbadev.github.io/speech_recognition_pretrained_models/)
 
+## 2022_02_16
+
+This is the result from the 2021 cooperation project.
+
+[Training results](2022_02_16/report_3_8.html)
+
 ## 2022_02_21
 
 [Training results](2022_02_21/results.html)
