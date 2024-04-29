@@ -4,7 +4,7 @@ This repository contains results of acoustic model training. See the individual 
 
 [Browse HTML reports here](https://zalozbadev.github.io/speech_recognition_pretrained_models/)
 
-## 2022 (upper sorbian monophone models or use with dlabpro)
+## 2022 (upper sorbian monophone models for use with dlabpro)
 
 ### 2022_02_16
 
@@ -34,6 +34,10 @@ This is the result from the 2021 cooperation project.
 
 [Training results model 4_24](dlabpro/hsb/2022_07_25/report_4_24.html)
 
+## 2023 (upper sorbian triphone models for use with recikts)
 
+### 2023_05_03
+
+[Models](kaldi_recikts/hsb/2023_05_03/)
 
 
