@@ -40,4 +40,10 @@ This is the result from the 2021 cooperation project.
 
 [Models](kaldi_recikts/hsb/2023_05_03/)
 
+See the report [here](https://digiserb.de/neuigkeiten-zur-maschinellen-spracherkennung-des-sorbischen/) for details.
 
+##2024 (upper sorbian models for use with recikts)
+
+[Models](kaldi_recikts/hsb/2024_01_04)
+
+See the report [here](https://digiserb.de/spoznawanje_rece_transkripty/) for details.
