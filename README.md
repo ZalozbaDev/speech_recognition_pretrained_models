@@ -42,7 +42,7 @@ This is the result from the 2021 cooperation project.
 
 See the report [here](https://digiserb.de/neuigkeiten-zur-maschinellen-spracherkennung-des-sorbischen/) for details.
 
-##2024 (upper sorbian models for use with recikts)
+## 2024 (upper sorbian models for use with recikts)
 
 [Models](kaldi_recikts/hsb/2024_01_04)
 
