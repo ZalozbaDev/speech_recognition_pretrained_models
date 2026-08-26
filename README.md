@@ -47,3 +47,25 @@ See the report [here](https://digiserb.de/neuigkeiten-zur-maschinellen-spracherk
 [Models](kaldi_recikts/hsb/2024_01_04)
 
 See the report [here](https://digiserb.de/spoznawanje_rece_transkripty/) for details.
+
+## 2026 (lower sorbian monophone models for use with dlabpro)
+
+### 2026_06_01
+
+[Training results model 1_3](dlabpro/dsb/2026_06_01/report_1_3.html)
+
+[Training results model 2_13](dlabpro/dsb/2026_06_01/report_2_13.html)
+
+### 2026_07_22
+
+[Training results model 2_2](dlabpro/dsb/2026_07_22/report_2_2.html)
+
+[Training results model 3_1](dlabpro/dsb/2026_07_22/report_3_1.html)
+
+### 2026_08_17
+
+[Training results model 1_2](dlabpro/dsb/2026_08_17/report_1_2.html)
+
+[Training results model 2_3](dlabpro/dsb/2026_08_17/report_2_3.html)
+
+[Training results model 4_11](dlabpro/dsb/2026_08_17/report_4_11.html)
